@@ -1,4 +1,5 @@
 # MI-4A100M
-小米路由器4A百兆版刷机（openwrt pandava） 
-其中xiaoyu后缀的固件无法刷入，可能是体质问题 
+openwrt pandava）
+其中xiaoyu后缀的固件无法刷入，可能是可能体质问题
+第三个为自行编译的固件 集成了一些插件方便使用
 其余两个openwrt和padavan都可正常刷入
